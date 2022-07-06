@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshay1502
 - 👀 I’m interested in Web Development and UX designing
 - 🌱 I’m currently learning React and UI designing
-- 💞️ I’m looking to collaborate on web projects and designing projects
+- 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me 
 Linkedin - https://www.linkedin.com/in/akshay-shinde-066b091b5/
 
